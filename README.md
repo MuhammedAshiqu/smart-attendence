@@ -37,6 +37,3 @@ This script uses face recognition technology to mark attendance automatically. I
 - Use the Streamlit interface to monitor progress and view messages.
 - Press 'm' to mark attendance and 'q' to quit the video feed.
 
----
-
-This script is part of a broader project aimed at automating attendance tracking using facial recognition technology. It is designed to be user-friendly and integrates seamlessly with Google Drive for efficient data management.
