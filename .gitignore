@@ -1,0 +1,10 @@
+# Folders to ignore
+.streamlit/
+Attendance/
+data/
+Models/
+
+# Files to ignore
+detect.joblib
+token.pickle
+vals.joblib
